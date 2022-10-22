@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>American Revolution: British Colonial Policies Timeline</title>
+    </head>
+    <body>
+        <style>
+            body {
+                background-color: #f1f1f1;
+            }
+            
+            #title {
+                font-family: serif;
+                text-align: center;
+                color: #7759ff;
+                font-size: 35px;
+            }
+            
+            .subheading {
+                color: #8769ff;
+                font-weight: bold;
+                font-style: italic;
+            }
+            
+            #intro {
+                border: solid black 1px;
+                background-color: #d1f1f1;
+                margin: -8.5px -8px 0px -8.5px;
+            }
+            
+            .year {
+                font-size: 30px;
+            }
+            
+            #y1763 {
+                margin-top: 65px;
+            }
+            
+            #paragraph-1 {
+                text-align: center;
+            }
+            
+            #paragraph-2 {
+                text-align: center;
+            }
+            
+            #source {
+                font-style: normal;
+            }
+
+            
+            #e1763 {
+                float: right;
+            }
+            
+        </style>
+
+        <div id="intro"><h1 id="title">American Revolution: British Colonial Policies</h1>
+        
+        <p class="subheading" id="paragraph-1">"By the 1760’s, more than 150 years after the first English settlement in North America was established, the American colonies were thriving. The British parliament elected to pass a series of acts between 1760 and 1775 that would create and/or increase taxes on goods, commerce, and trade in the colonies.</p>
+
+<p class="subheading" id="paragraph-2">Much of this tax would be used to pay for the British debt after the long and costly French and Indian War. The American colonists felt this was unfair because they were not able to vote in parliamentary elections and therefore had no voice in the matter. This led to the famous motto 'No taxation without representation'." <span id="source">-Students of History</span></p></div>
+        
+        <div id="e1763"><h1 id="y1763" class="year">1763</h1>
+        <p id="t1763">After winning the French and Indian War, the colonists were excited of new opportunities that would be opened up for them since they were being surrounded and restricted by the French. The western frontier had now been open to them after it was surrendered to the British by the French. The Proclamation Line of 1763 prevented the colonists from taking over this territory. The King and his council argued that it was made to prevent the Indians from fearing that they may be kicked out of their land if the colonists were to expand west.</p></div>
+    </body>
+</html>
